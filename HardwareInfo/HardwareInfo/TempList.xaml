@@ -1,0 +1,23 @@
+﻿<Window x:Class="HardwareInfo.TempList"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HardwareInfo"
+        mc:Ignorable="d"
+        Title="TempList" Height="264" Width="310" ResizeMode="CanMinimize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="700*"/>
+            <ColumnDefinition Width="109*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="label" Content="Temprature sensors&#xD;&#xA;" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="24" Cursor="None"/>
+        <Label x:Name="label_Copy" Content="Cpu temp:&#xA;" HorizontalAlignment="Left" Margin="24,39,0,0" VerticalAlignment="Top" Height="24"/>
+        <Label x:Name="label_Copy1" Content="Cpu temp value&#xA;" HorizontalAlignment="Left" Margin="91,39,0,0" VerticalAlignment="Top" Height="24"/>
+        <Label x:Name="label_Copy2" Content="Ram temp:&#xA;" HorizontalAlignment="Left" Margin="24,63,0,0" VerticalAlignment="Top" Height="24"/>
+        <Label x:Name="label_Copy3" Content="Ram temp value&#xA;" HorizontalAlignment="Left" Margin="91,63,0,0" VerticalAlignment="Top" Height="24"/>
+        <Label x:Name="label_Copy4" Content="GPU temps&#xA;" HorizontalAlignment="Left" Margin="24,87,0,0" VerticalAlignment="Top" Height="24"/>
+        <ListBox x:Name="listBox" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="24,111,10,10" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</Window>

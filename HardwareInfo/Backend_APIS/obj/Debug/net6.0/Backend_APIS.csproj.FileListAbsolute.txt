@@ -1,0 +1,12 @@
+C:\Users\Joachim\source\repos\HardwareInfo\Backend_APIS\bin\Debug\net6.0\Backend_APIS.deps.json
+C:\Users\Joachim\source\repos\HardwareInfo\Backend_APIS\bin\Debug\net6.0\Backend_APIS.dll
+C:\Users\Joachim\source\repos\HardwareInfo\Backend_APIS\bin\Debug\net6.0\Backend_APIS.pdb
+C:\Users\Joachim\source\repos\HardwareInfo\Backend_APIS\obj\Debug\net6.0\Backend_APIS.csproj.AssemblyReference.cache
+C:\Users\Joachim\source\repos\HardwareInfo\Backend_APIS\obj\Debug\net6.0\Backend_APIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joachim\source\repos\HardwareInfo\Backend_APIS\obj\Debug\net6.0\Backend_APIS.AssemblyInfoInputs.cache
+C:\Users\Joachim\source\repos\HardwareInfo\Backend_APIS\obj\Debug\net6.0\Backend_APIS.AssemblyInfo.cs
+C:\Users\Joachim\source\repos\HardwareInfo\Backend_APIS\obj\Debug\net6.0\Backend_APIS.csproj.CoreCompileInputs.cache
+C:\Users\Joachim\source\repos\HardwareInfo\Backend_APIS\obj\Debug\net6.0\Backend_APIS.dll
+C:\Users\Joachim\source\repos\HardwareInfo\Backend_APIS\obj\Debug\net6.0\refint\Backend_APIS.dll
+C:\Users\Joachim\source\repos\HardwareInfo\Backend_APIS\obj\Debug\net6.0\Backend_APIS.pdb
+C:\Users\Joachim\source\repos\HardwareInfo\Backend_APIS\obj\Debug\net6.0\ref\Backend_APIS.dll
